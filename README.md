@@ -15,3 +15,7 @@ Napwave requires **Python 3** and some additional libraries. Make sure the follo
 - `socket`
 - `colorama`
 
+- how to install napwave:
+- git clone https://github.com/Amelias7/napwave.git
+cd napwave 
+

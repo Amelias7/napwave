@@ -4,7 +4,7 @@
 
 ## Feature 
 
-** Sending excessive HTTPS requests to flood the target server, as well as TCP simultaneously.
+Sending excessive HTTPS requests to flood the target server, as well as TCP simultaneously.
 
 
 ## Condition 
